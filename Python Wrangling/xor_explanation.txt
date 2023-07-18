@@ -1,0 +1,8 @@
+flag^key = ef
+pa^key = ea
+ef^ea=pa^flag
+
+
+fa^ea^pa
+
+key=ea^pa=key^pa^pa

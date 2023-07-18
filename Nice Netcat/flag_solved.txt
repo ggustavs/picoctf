@@ -1,0 +1,5 @@
+[x] Opening connection to mercury.picoctf.net on port 43239
+[x] Opening connection to mercury.picoctf.net on port 43239: Trying 18.189.209.142
+[+] Opening connection to mercury.picoctf.net on port 43239: Done
+picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
+[*] Closed connection to mercury.picoctf.net port 43239
